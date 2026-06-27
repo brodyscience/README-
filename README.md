@@ -2,14 +2,14 @@
 # Hi, I’m Hara Brody
 
 **Science Teacher → AI Science Learning Strategist**
-Brooklyn, NY | NYC DOE District 13
+Brooklyn, NY.
 
 ---
 
 ## What I Do
 
-I teach Life Science: Biology (9th grade) and Earth & Space Science
-(10th grade) at Creators Academy in Brooklyn — a small public school
+I teach Life Science: Biology and Earth & Space Science
+(10th grade) at Creators Academy in Brooklyn, a small public school
 serving an underrepresented urban community.
 
 I also build AI-powered educational tools using Anthropic’s API.
@@ -32,7 +32,7 @@ environment. My students are the real feedback loop.
 
 I use Cursor Pro with natural language prompting as my primary
 development workflow. I am not a traditional software engineer.
-I am an educator who builds — and I think that’s rarer and
+I am an educator who builds , and I think that’s rarer and
 more useful than either alone.
 
 ---
@@ -43,7 +43,7 @@ Transitioning toward AI curriculum development, educator training,
 and program design at scale. Currently pursuing:
 - Boston University Wheelock: Graduate Certificate in AI and Education
 - IBM Quantum Computing for Educators certification
-- Anthropic AI Fluency + Claude 101
+- Anthropic AI Fluency and Claude 101
 
 ---
 
