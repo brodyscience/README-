@@ -8,9 +8,8 @@ Brooklyn, NY.
 
 ## What I Do
 
-I teach Life Science: Biology and Earth & Space Science
-(10th grade) at Creators Academy in Brooklyn, a small public school
-serving an underrepresented urban community.
+I teach Life Science: Biology and Earth and Space Science
+ at Creators Academy High School in Brooklyn.
 
 I also build AI-powered educational tools using Anthropic’s API.
 
