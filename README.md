@@ -22,7 +22,7 @@ environment. My students are the real feedback loop.
 
 | Project | What It Does | Stack |
 |---|---|---|
-| [Protein Synthesis Lab](https://github.com/brodyscience/protein-synthesis-lab) | Interactive lab simulation with AI feedback + teacher dashboard | Vite, React, Vercel, Anthropic API |
+| [Protein Synthesis Lab](https://github.com/brodyscience/protein-synthesis-lab) | Interactive lab simulation with AI feedback and teacher dashboard | Vite, React, Vercel, Anthropic API |
 
 ---
 
@@ -30,7 +30,7 @@ environment. My students are the real feedback loop.
 
 I use Cursor Pro with natural language prompting as my primary
 development workflow. I am not a traditional software engineer.
-I am an educator who builds — and I think that's rarer and
+I am an educator who builds and I think that's rarer and
 more useful than either alone.
 
 ---
@@ -41,7 +41,7 @@ Transitioning toward AI curriculum development, educator training,
 and program design at scale. Currently pursuing:
 - Boston University Wheelock: Graduate Certificate in AI and Education
 - IBM Quantum Computing for Educators certification
-- Anthropic AI Fluency + Claude 101
+- Anthropic AI Fluency and Claude 101
 
 ---
 
