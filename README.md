@@ -1,5 +1,5 @@
 # README-
-# Hi, I’m Hara Brody
+# Hi, I’m Bahar H. Brody
 
 **Science Teacher → AI Science Learning Strategist**
 Brooklyn, NY.
