@@ -1,7 +1,7 @@
 # README-
 # Hi, I’m Bahar H. Brody
 
-**Science Teacher → AI Science Learning Strategist**
+**High School Science Teacher - AI Science Learning Strategist**
 Brooklyn, NY.
 
 ---
